@@ -1,6 +1,7 @@
 # Firegram (Instagram with Firebase) React App
 
 This project is from [Traversy Media](https://www.youtube.com/watch?v=IYCa1F-OWmk).
+<br/>
 API used for Fetching the posts : [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
 
 ## Available Deploy on Netlify
