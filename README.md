@@ -1,4 +1,4 @@
-# Firegram (Instagram with Firebase) React App
+# Pagination React App
 
 This project is from [Traversy Media](https://www.youtube.com/watch?v=IYCa1F-OWmk).
 <br/>
